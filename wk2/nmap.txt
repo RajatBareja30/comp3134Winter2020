@@ -1,0 +1,27 @@
+1) root@lamp-s-1vcpu-1gb-tor1-01:~# nmap 192.168.1.1
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:23 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.08 seconds
+______________________________________________________________________________________________________________
+
+2) root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 22 192.168.1.1
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:20 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.08 seconds
+________________________________________________________________________________________________________________
+
+3) root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 1-100 192.168.1.1
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:21 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.10 seconds
+_____________________________________________________________________________________________________________
+
+4) root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F 192.168.1.1
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:24 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.08 seconds
+

@@ -1,0 +1,19 @@
+1) Domain name: Amway.com
+IP Address: 40.87.67.233
+Geolocation: US (United States), VA, Virginia, 22747 Washington
+
+2) Domaing name: Flipkart.com
+IP Address: 163.53.78.128
+Geolocation: IN (India), N/A, N/A, N/A N/A
+
+3) Domain Name: godaddy.com
+IP Address: 208.109.192.70
+Geolocation: US (United States), AZ, Arizona, 85260 Scottsdale
+
+4) Domain Name: bookmyshow.com
+IP Address: 104.16.123.37
+Geolocation: US (United States), N/A, N/A, N/A N/A 
+
+5) Domain Name: makemytrip.com
+IP Address: 115.114.54.50
+Geolocation: IN (India), 16, Maharashtra, N/A Mumbai

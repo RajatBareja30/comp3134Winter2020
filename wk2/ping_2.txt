@@ -1,0 +1,12 @@
+C:\Users\Owner>ping 138.197.155.243
+
+Pinging 138.197.155.243 with 32 bytes of data:
+Reply from 138.197.155.243: bytes=32 time=3ms TTL=58
+Reply from 138.197.155.243: bytes=32 time=5ms TTL=58
+Reply from 138.197.155.243: bytes=32 time=10ms TTL=58
+Reply from 138.197.155.243: bytes=32 time=3ms TTL=58
+
+Ping statistics for 138.197.155.243:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 10ms, Average = 5ms

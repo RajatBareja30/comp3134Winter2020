@@ -1,0 +1,11 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping amazon.com -w 5
+PING amazon.com (176.32.103.205) 56(84) bytes of data.
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=1 ttl=226 time=34.6 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=2 ttl=226 time=33.5 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=3 ttl=226 time=33.5 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=4 ttl=226 time=33.5 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=5 ttl=226 time=33.5 ms
+
+--- amazon.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 33.522/33.768/34.609/0.421 ms
